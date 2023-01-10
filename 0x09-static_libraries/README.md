@@ -1,2 +1,1 @@
-This is me
-
+This is a readme file for Static library
