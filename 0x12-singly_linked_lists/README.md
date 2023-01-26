@@ -1,1 +1,1 @@
-This is a printf work
+This is a work to a singly linked list
